@@ -12,6 +12,7 @@ foo <- 1
 bar = 1
 
 ## print variables at screen
+
 foo
 bar
 
